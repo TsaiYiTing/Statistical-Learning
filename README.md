@@ -4,7 +4,7 @@
 
 ## Contents
 * [1. Introduction]
-* [2. Statistical Learning](CH2 Statistical Learning.ipynb)
+* [2. Statistical Learning](https://github.com/TsaiYiTing/Statistical_Learning/blob/master/CH2%20Statistical%20Learning.ipynb)
 
 * [3. Linear Regression](docs/3.分类.md)
 * [4. Classiﬁcation](docs/4.训练模型.md)
