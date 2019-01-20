@@ -4,7 +4,8 @@
 
 ## Contents
 * [1. Introduction]
-* [2. Statistical Learning](Statistical_Learning/CH2 Statistical Learning.ipynb)
+* [2. Statistical Learning](CH2 Statistical Learning.ipynb)
+
 * [3. Linear Regression](docs/3.分类.md)
 * [4. Classiﬁcation](docs/4.训练模型.md)
 * [5. Resampling Methods](docs/5.支持向量机.md)
